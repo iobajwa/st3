@@ -1,0 +1,15 @@
+[
+	{ "keys": ["ctrl+alt+o"], "command": "open_dir", 
+    "args": {"dir": "$file_path", "file": "$file_name"} },	
+	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+	{ "keys": ["ctrl+,"], "command": "reveal_in_side_bar" },
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+	{ "keys": ["ctrl+'"], "command": "clone_file" },
+	{ "keys": ["ctrl+shift+'"], "command": "copy_path" },
+	{ "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+	{ "keys": ["shift+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+alt+s"], "command": "prompt_save_as" },
+	{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+	{ "keys": ["ctrl+alt+d"], "command": "goto_definition" },
+	{ "keys": ["ctrl+shift+b"], "command": "cancel_build" },
+]
