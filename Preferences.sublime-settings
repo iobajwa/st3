@@ -3,7 +3,10 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"Rust",
 		"Vintage"
 	],
+	"show_encoding": true,
+	"show_line_endings": true,
 	"theme": "Boxy Monokai.sublime-theme"
 }

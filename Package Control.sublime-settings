@@ -11,6 +11,9 @@
 		"BracketHighlighter",
 		"C++ Starting Kit",
 		"ColorSchemeEditor",
+		"Highlight",
+		"Material Theme",
+		"Materialize",
 		"Monokai - Spacegray",
 		"Monokai++",
 		"Package Control",
@@ -20,8 +23,11 @@
 		"Project Specific Syntax Settings",
 		"RSpec",
 		"RubyTest",
+		"Rust Enhanced",
 		"Sublimall",
+		"Theme - Brogrammer",
 		"Theme - Monokai Pro",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"TOML"
 	]
 }
