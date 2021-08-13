@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Boxy Theme",
 	],
 	"installed_packages":
 	[
@@ -24,10 +25,9 @@
 		"RSpec",
 		"RubyTest",
 		"Rust Enhanced",
-		"Sublimall",
 		"Theme - Brogrammer",
 		"Theme - Monokai Pro",
 		"Theme - Spacegray",
-		"TOML"
-	]
+		"TOML",
+	],
 }
