@@ -3,10 +3,11 @@
 	"font_size": 11,
 	"ignored_packages":
 	[
+		"Boxy Theme",
 		"Rust",
-		"Vintage"
+		"Vintage",
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Boxy Monokai.sublime-theme"
+	"theme": "Material-Theme-Darker.sublime-theme",
 }
